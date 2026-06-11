@@ -1,0 +1,85 @@
+.tis-header {
+  font-family: "Exo 2", system-ui, sans-serif;
+  background: #0A0F1F;
+  color: #E6F7FF;
+  padding: 24px 10vw 60px;
+  border-bottom: 1px solid #1C1F26;
+}
+
+.tis-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tis-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.tis-symbol {
+  color: #00E0FF;
+  font-size: 22px;
+}
+
+.tis-name {
+  font-family: "Orbitron", sans-serif;
+  letter-spacing: 0.18em;
+  font-size: 20px;
+}
+
+.tis-sub {
+  font-size: 11px;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+
+.tis-nav a {
+  margin-left: 24px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #E6F7FF;
+  opacity: 0.8;
+}
+
+.tis-nav a:hover {
+  opacity: 1;
+  color: #00E0FF;
+}
+
+.tis-hero {
+  margin-top: 40px;
+  max-width: 600px;
+}
+
+.tis-hero h1 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+  margin-bottom: 12px;
+}
+
+.tis-hero p {
+  font-size: 15px;
+  opacity: 0.85;
+  margin-bottom: 24px;
+}
+
+.tis-actions .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  text-decoration: none;
+  margin-right: 12px;
+}
+
+.btn.primary {
+  background: #00E0FF;
+  color: #0A0F1F;
+}
+
+.btn.ghost {
+  border: 1px solid #00E0FF;
+  color: #00E0FF;
+}
