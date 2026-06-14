@@ -1,3 +1,4 @@
+
 .tis-header {
   font-family: "Exo 2", system-ui, sans-serif;
   background: #0A0F1F;
@@ -82,4 +83,12 @@
 .btn.ghost {
   border: 1px solid #00E0FF;
   color: #00E0FF;
+}
+
+.input .btn.primary {
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #1C1F26;
+  background: #0A0F1F;
+  color: #E6F7FF;
 }
