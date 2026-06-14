@@ -85,7 +85,7 @@
 }
 
 .tis-Input {
-  margin-top: 10px;
+  margin-top: 10px, 0 ,0,0;
   font-family: "Exo 2", system-ui, sans-serif;
   background: rgba(36, 113, 228, 0.507);
   color: #E6F7FF;
