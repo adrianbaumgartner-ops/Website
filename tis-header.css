@@ -6,6 +6,14 @@
   border-bottom: 1px solid #1C1F26;
 }
 
+.tis-header {
+  font-family: "Exo 2", system-ui, sans-serif;
+  background: #0A0F1F;
+  color: #E6F7FF;
+  padding: 24px 10vw 60px;
+  border-bottom: 1px solid #1C1F26;
+}
+
 .tis-topbar {
   display: flex;
   justify-content: space-between;
