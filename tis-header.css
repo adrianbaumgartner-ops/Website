@@ -124,7 +124,7 @@
   color: #22f217;
 }
 .tis-tr {
-  display: contents;
+  display: flex;
   margin: 10;
   border: 1px solid #20e94c;
 }
