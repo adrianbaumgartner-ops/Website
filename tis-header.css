@@ -115,8 +115,8 @@
   letter-spacing: 0.18em;
 }
 .this-table-frame {
-  display: grid;
- 
+  display: flex;
+  flex-direction: column;
   row-gap: 10px;
   column-gap: 10px;
   border: 6px solid #e9206a;
