@@ -129,6 +129,8 @@
   border: 1px solid #20e94c;
 }
 .tis-td {
+  display: flex;
+  flex: 1;
   padding: 10px;
   border: 1px solid #20e94c;
   text-align: center;
